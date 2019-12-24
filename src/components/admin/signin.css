@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+    .Admin {
+      padding: 60px 0;
+    }
+  
+    .Admin form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
